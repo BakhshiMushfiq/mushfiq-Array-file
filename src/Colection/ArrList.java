@@ -41,7 +41,7 @@ public class ArrList {
 	
 		while (i.hasNext()) {
 			System.out.println("  " + i.next());
-			//this arry line is just a Test
+			
 		}
 	}
 
